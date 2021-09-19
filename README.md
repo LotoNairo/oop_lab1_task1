@@ -1,2 +1,2 @@
-# LotoNairo-oop_lab1_task
+# oop_lab1_task1
 Андрей 2 ИСиТ
